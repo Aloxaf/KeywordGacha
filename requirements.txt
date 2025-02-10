@@ -14,3 +14,6 @@ pykakasi
 sudachipy
 sudachidict-core
 aiolimiter
+
+fastapi
+uvicorn
